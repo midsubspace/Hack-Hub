@@ -1,7 +1,7 @@
 ```
 For Learning Basic TypeScript: https://www.w3schools.com/typescript/
 
-TypeScript'ss Official Documentation: https://www.typescriptlang.org/docs/
+TypeScript's Official Documentation: https://www.typescriptlang.org/docs/
 
 Froj is working on documenting the game's custom api and it will be hosted irl
 
@@ -9,5 +9,5 @@ You can check out other player's custom scripts and some the dev has made on the
 
 There is also some basic Documation in game in the Handbook under scripting
 
-Along with a step by step walkthough of coding your own nmap tool
+Along with a step by step walkthrough of coding your own nmap tool
 ```
